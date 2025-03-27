@@ -1,7 +1,7 @@
 
 # Youtube API microproject
 
-Since I watch a lot of mindless Chinese Shotform dramas, I had curated data on all the mini dramas that I had watched - the name of the drama and it's YouTube link.
+Since I watch a lot of mindless Chinese Shortform dramas(Mini Dramas), I had curated data on all the dramas that I had watched - the name of the drama and it's YouTube link.
 
 Since I already had the names and it's links I just wanted to fill in the runtime and the Channel name of that particular video. 
 
@@ -35,6 +35,11 @@ How It Works:
 
 [Youtube Data API Reference ](https://developers.google.com/youtube/v3/docs)
 
+## Uploaded Docs
+
+    Mini Drama List.xlsx - Original Data
+    Updated Drama List.xlsx - Result after running the program
+    
 ## Authors
 
 - [@krithiksharan](https://www.github.com/krithiksharan13)
